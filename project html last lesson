@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My resume</title>
+</head>
+<body>
+    <h1>NI LUH DEWI PERMATA SARI</h1>
+    <img src="./IMG_4458.png"height=200 alt="dewi pictures"/>
+    <h2>SUMMARY</h2>
+    I'm hardworking person, team player and enthusiatic person
+    <hr>
+    <h2>EDUCATION</h2>
+    <ol>
+        <li>Double Bachelor Degree of Hospitality Management of Stenden Netherlands 2009</li>
+        <li>Bachelor Degree of Hospitality Management of STIE Bali 2008</li>
+    </ol>
+    <hr>
+    <H3>WORK EXPERIENCE</H3>
+    <OL>
+        <LI>Admintration Executive PT Indonesia Airasia 2009-2017
+            <ul><li>Managing training program schedule to all the employee</li>
+                <li>Managing stocklist of all the station stationary</li>
+                <li>Managing Weekly, Monthly, Yearly report of flight information</li>
+                <li>Managing in out airport permission to all of station HUB guestes</li>
+                <li>Interviewing all the applicants</li>
+                <li>Staff Performing Report every month</li>
+                <li>Monitoring KPI to each staff and station performance</li>
+                <li>Representation of station for all the audit</li>
+                <li>Assist all the meeting and appointment</li>
+            </ul>
+        </LI>
+        <LI>Sales Agent for ASIAN Market Gassan Diamonds 2018-Present
+            <ul><li>Responsible of all the sales on spot</li>
+                <li>Responsible of all the after sales service</li>
+                <li>Responsible of sales report monthly and yearly</li>
+                <li>Responsible of clients satisfaction</li>
+            </ul>
+        </LI>
+    </OL>
+    <hr>
+    <h3>SKILLS</h3>
+    <UL>
+        <li>MICROSOFT PROGRAM</li>
+        <li>HTML PROGRAM</li>
+        <li>SKYSPEED</li>
+        <li>GOOGLE </li></UL>
+    <hr>
+    <a href="./contact me"/>Contact Me</a>
+</body>
+</html>
